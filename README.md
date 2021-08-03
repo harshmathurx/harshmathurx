@@ -26,7 +26,7 @@ Currently I am learning React,Redux and React Native. Trying actively to make mo
 ### Connect With Me💻
 <p align="left" align='right'>
 <a target="_blank"href="https://www.linkedin.com/in/harshmathurx/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a target="_blank"href="harshmathurx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a target="_blank"href="harshmathurx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 </p>
 
