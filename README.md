@@ -31,4 +31,6 @@ Currently I am learning React,Redux and React Native. Trying actively to make mo
 </p>
 
 -----
-![Harsh's Portfolio](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmathurx&theme=blue-green) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=harshmathurx&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats) ![Harsh's Github Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
+![Harsh's Portfolio](https://github-readme-stats.vercel.app/api/top-langs/?username=harshmathurx&theme=blue-green)<br>
+![Harsh's Github Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AM1CODES&theme=tokyonight_duo&fire=D825DD)](https://git.io/streak-stats)
