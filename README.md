@@ -1,8 +1,6 @@
 
 ### About Me👋
-I'm a fullstack web and mobile app developer, recently I've been working on a catalouge website for small businesses that helps them introduce their products to the world on one platform. I love making apps which change the way people approach their day, just fun apps which make people laugh. Actively looking for hackathons to participate in, so you can let me know if you are hacking somewhere.
-
-Currently I am learning React,Redux and React Native. Trying actively to make more cool projects to showcase.
+Hey, I'm harsh. I'm a full stack dev 
 
 ### My Tech Stack🔨
 #### Web Development Stack
